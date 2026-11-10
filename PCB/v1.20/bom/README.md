@@ -1,5 +1,5 @@
 # Interactive BOM
-To view the interactive bom, use the html preview link here: http://htmlpreview.github.io/?https://github.com/TweetyDaBird/Lotus-58-Classic/blob/release/Lotus%2058%20USB-C/v1.51/bom/ibom.html
+To view the interactive bom, use the html preview link here: http://htmlpreview.github.io/?https://github.com/TweetyDaBird/Skinny-Chameleon/blob/main/PCB/v1.20/bom/ibom.html
 
 **Please note** that the BOM relies on the PCB manufacturing files, and shows the various positions for both sides. 
 
