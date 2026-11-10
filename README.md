@@ -50,9 +50,9 @@ _The RGB LED's and encoders are all pre-soldered together with the required hots
 
 **Any mounting hardware should accompany the case, and is not supplied with the PCB.** This means you will have to save and reuse the hardware with your originial case. 
 
-**The solder on studs can be removed from your original PCB and re-used.**  Or, you can choose to buy replacement studs as an add-on, and not have to bother with the removal. Please note that the replacement studs are slightly loose in the holes to allow the use of both types (the original ones are a speciality item made for OLKB, I'm using the nearest off the shelf replacement), and they _absolutely need_ to be soldered on to the PCB to be useful. I highly suggest attaching them to the case, placing the PCB and solder as they are aligned.
+**The solder on studs can be removed from your original PCB and re-used.**  Or, you can choose to buy replacement studs as an add-on, and not have to bother with the removal. Please note that the replacement studs are slightly loose in the holes to allow the use of both types, since the original ones are (possibly?) a speciality item made for OLKB, and I'm using the nearest off the shelf replacement, and they _absolutely need_ to be soldered on to the PCB to be useful. I highly suggest attaching them to the case, placing the PCB and solder as they are aligned.
 
-***Change for version 1.10*** New PCB's will _NOT_ be able to fit the unusually sized original OLKB studs. Having to make a choice between the weird size making off the shelf studs be hard to center and re-using the original studs (which takes some skill), I'm choosing the off the shelf ones I can supply at a decent price. 
+***Change for version 1.10*** New PCB's are harder to fit the unusually sized original OLKB studs. Having to make a choice between the weird size making off the shelf studs be hard to center and re-using the original studs (which takes some skill), I'm choosing to make the off the shelf ones I can supply at a decent price easier to solder. 
 # Making Chameleon yourself
 **Chameleon is open source / open hardware, and can be manufactured by anyone. The release contains all the neccesary files like parts lists, positions files etc for a full PCB/SMT production.** 
 
