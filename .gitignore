@@ -1,5 +1,6 @@
 ﻿*/production/backups
-*production
+*/production
 */Skinny Chameleon-backups
 *.kicad_sch-bak
 *backups
+*swp*
