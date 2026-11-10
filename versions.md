@@ -1,1 +1,0 @@
-v1.20 - pushed out usb connector, refactored encoder footprints, refactored switch footprints with reinforced pads(larger via). 
