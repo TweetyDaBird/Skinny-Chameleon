@@ -34,8 +34,6 @@ The Chameleon features 8 bottomfacing RGB LEDs for underglow effects or to be us
 * Support for up to 4 rotary encoders **(one encoder per corner)**
 * Optional RGB underglow (8x SK6812 mini-e)
 
-**These options requires additional components not included in this listing and sold separately.**
-
 ## Assembly
 **Little or no tools at all needed!** The PCB can be delivered fully soldered and ready to use, either as a full matrix, or with your selection of rotary encoders. If ordered fully soldered, the bottom row for the size specified (4x12/5x12) is soldered, and accepts both a full 1u grid and 2u keys without any changes.
 
