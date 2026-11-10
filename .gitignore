@@ -1,8 +1,5 @@
-﻿*/production/backups
-*/production
-*/Skinny Chameleon-backups
+﻿*production
 *.kicad_sch-bak
 *backups
 *swp
 *.kate-swp
-/PCB/v1.20/production
